@@ -1,4 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 @namespace url(http://www.w3.org/1999/xhtml);
+
+html,
+body,
+section,
+p,
+a,
+h1,h2,h3,h4,h5,h6,
+ul > li
+{
+    font-family: roboto!important;
+}
+
+
 section{
     background-color: #1F1F1F !important;
     color: #FFFFFF;
@@ -327,6 +342,20 @@ section{
 .poster-under,
 .activity-state {
     background:#1F1F1F !important;
+}
+
+#schedule-wrapper .poster-wrapper .poster {
+
+    width: 100%;
+    position: absolute;
+    top: -15px;
+    left: 0;
+    padding: 10px 10px;
+    transition: all .5s;
+    opacity: 0;
+    border-radius: 20px;
+    position:relative;
+
 }
 
 #results-top-wrapper {
