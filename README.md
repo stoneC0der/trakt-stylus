@@ -8,14 +8,15 @@ A Dark Mode theme for Trakt.tv
 ![Comments section](https://github.com/stoneC0der/trakt-stylus/blob/master/screenshots/comments-section.png)
 ![Calendar/Search results section](https://github.com/stoneC0der/trakt-stylus/blob/master/screenshots/calendar.png)
 ## Usage
-1- Install Stylus extension for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-2- Go to [Trakt.tv](trakt.tv) and Click on the extension icon, then look for where it says ***Write extension for: URL*** and click the URL path, a new tab will open with an editor, copy the CSS from the style.styl and paste it in the editor.
-On the left side of the editor look for the **Save** button and click to save and that's all, changes will be applied immediatly.
+1. Install Stylus extension for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
+2. Go to [Trakt.tv](trakt.tv) and Click on the extension icon, then look for where it says ***Write extension for: URL*** and click the URL path, a new tab will open with an editor.
+3. copy the CSS from the style.styl and paste it in the editor.
+4. On the left side of the editor look for the **Save** button and click to save and that's all, changes will be applied immediatly.
 
 ## Features:
 - Added rounded border for posters, fantarts
 - Remove VIP Ads in Calendar, search result
-- Transparency
+- Transparency for Movie/TV details
 
 ## Always on Dark mode:
 Dark mode is toggle only when system is set to darkmode to have it constantly, just remove all the CSS out of the media query roule
@@ -23,3 +24,6 @@ Dark mode is toggle only when system is set to darkmode to have it constantly, j
     @media (prefers-color-scheme: dark) {
     
     }
+    
+### B.N
+The blur from the screenshot are from my system not the theme
