@@ -25,5 +25,5 @@ Dark mode is toggle only when system is set to darkmode to have it constantly, j
     
     }
     
-### B.N
+### N.B
 The blur from the screenshot are from my system not the theme
