@@ -1,4 +1,4 @@
-# trakt-stylus
+# Trakt DarkMode (stylus)
 A Dark Mode theme for Trakt.tv
 ![Up next/Upcoming sections](https://github.com/stoneC0der/trakt-stylus/blob/master/screenshots/up-next-upcoming.png)
 ![Recent & Network activity sections](https://github.com/stoneC0der/trakt-stylus/blob/master/screenshots/recent-activity-and-network.png)
